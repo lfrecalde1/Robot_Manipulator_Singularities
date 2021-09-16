@@ -1,0 +1,1 @@
+# Robot_Manipulator_Singularities
